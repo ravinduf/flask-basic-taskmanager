@@ -1,11 +1,14 @@
-/* body {
-    margin: 0;
-    font-family: sans-serif;
-    font-size: 60px;
+body {
+  margin: 0;
+  font-family: sans-serif;
+
 }
 
+.content{
+  margin: 0 auto;
+  width: 30%;
+}
 table, tr, th,td{
-    
-    border-collapse: collapse;
-    border: 1px solid black;
-} */
+  border-collapse: collapse;
+  border: 1px solid black;
+}
