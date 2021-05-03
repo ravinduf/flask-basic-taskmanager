@@ -8,7 +8,28 @@ body {
   margin: 0 auto;
   width: 30%;
 }
+
+.content h1{
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+table{
+  margin: 0 auto;
+}
+
 table, tr, th,td{
   border-collapse: collapse;
   border: 1px solid black;
+}
+
+th, td{
+  padding: 10px;
+}
+
+form{
+  margin: 10px 65px;
 }
